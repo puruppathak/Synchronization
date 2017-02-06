@@ -8,7 +8,7 @@
 
 
 // Name: Puru Pathak
-// Multithreading 
+// Multithreading program
 
 //References: https://computing.llnl.gov/tutorials/pthreads/
 //          : www.gnu.org
