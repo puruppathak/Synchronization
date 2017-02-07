@@ -18,7 +18,7 @@
 
 
 
-typedef struct Pair_struct{                  //Pair structure
+typedef struct Pair_struct{                  //structure used to find key value pair
 	char *key;
 	char *value;
 }Pair_variable;
