@@ -11,9 +11,9 @@
 // Multithreading program
 
 //References: https://computing.llnl.gov/tutorials/pthreads/
-//          : www.gnu.org
-//          : www.stackoverflow.org
-//          : www.cprogramming.com
+//         : www.gnu.org
+//         : www.stackoverflow.org
+//         : www.cprogramming.com
 
 
 
