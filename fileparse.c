@@ -7,7 +7,7 @@
 #include <sys/types.h>
 
 
-// Name: Puru Pathak
+// Name: Puru P Pathak
 // Multithreading program using synchronization.
 
 //References: https://computing.llnl.gov/tutorials/pthreads/
