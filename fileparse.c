@@ -52,7 +52,7 @@ int ip_count;
 
 int main(int argc, char *argv[]) {
 	long i;
-	DIR *dir;                                             // Create Directory stream
+	DIR *dir;                                             // Create Directory stream here
 	FILE *file;                                           // Create File stream
 	static const int dict_size = 200;                 
 	size_t len = 1000; 
