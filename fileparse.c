@@ -64,7 +64,7 @@ int main(int argc, char *argv[]) {
 	
 	 
 	if(argc > 3) {
-		printf("Error: Re-check number of arguments given.\n");             //Checking number of arguments
+		printf("Error: Re-check number of arguments given.\n");             //Checking number of arguments here
 		return -1;
 	}
 
