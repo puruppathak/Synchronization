@@ -188,7 +188,7 @@ void *File_parser(void *thread_id) {
 	pthread_exit(NULL); 
 }
 
-static unsigned long hash(const char *str)             //Function for hashing
+static unsigned long hash(const char *str)             //Function for hashing here
 {
 
 	int j;
