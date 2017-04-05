@@ -28,7 +28,7 @@ typedef struct A_Array_struct{                //Associative array structure here
 	Pair_variable *pairs;
 }A_Array;
 
-typedef struct Dict_struct{                   //Dictionary structure declared 
+typedef struct Dict_struct{                   //Dictionary structure declared here
     int count;
 	A_Array *A_arrays;
 }Dict;
