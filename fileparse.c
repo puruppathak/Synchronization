@@ -59,7 +59,7 @@ int main(int argc, char *argv[]) {
 	char *line = NULL;                                    // Initializing line pointer
 	size_t read;
 	int result;
-	char fileName[256];                                     // Initializing File buffer
+	char fileName[256];                                     // Initializing File buffer here
     Thread_count = atoi(argv[2]);
 	
 	 
