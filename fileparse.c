@@ -23,7 +23,7 @@ typedef struct Pair_struct{                  //structure used to find a key valu
 	char *value;
 }Pair_variable;
 
-typedef struct A_Array_struct{                //Associative array structure
+typedef struct A_Array_struct{                //Associative array structure here
 	int count;
 	Pair_variable *pairs;
 }A_Array;
